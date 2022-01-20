@@ -219,6 +219,7 @@ ul.contact-list {
 }
 .card-item {
   margin-right: 30px;
+  background-color: var(--hedercolor);
 }
 
 .card-item:last-child {
@@ -264,7 +265,7 @@ ul.contact-list {
 /*------ Footer--------*/
 
 footer {
-  padding: 60px 15px;
+  padding: 60px 0px;
   background-color: var(--footercolor);
 }
 
@@ -318,7 +319,7 @@ footer {
   text-align: center;
   font-family: Roboto, sans-serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
